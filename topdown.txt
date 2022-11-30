@@ -1,1 +1,4 @@
 bu dosya Top down approach u anlamak icin hazirlanmistir.
+
+
+Bu degisiklik istenmeyen bir degisiklik.
